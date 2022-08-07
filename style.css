@@ -14,7 +14,7 @@
 }
 
 body{
-    background-image:url(/imgs/Virg\ pic.jpeg);
+    background-image:url(imgs/virg.jpeg);
     object-fit: cover;
     background-repeat: no-repeat;
     image-resolution:inherit;
